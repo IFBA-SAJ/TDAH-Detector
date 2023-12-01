@@ -3,11 +3,11 @@
 # Projeto da Disciplina Engenharia de Software I 
 
 # Equipe do sistema TDAH Detector
-Pedro Jorge:    Gerente de projetos /Analista de sistema
+Pedro Jorge pedjorcal :    Gerente de projetos /Analista de sistema
 
-Alisson A.Divino:  Engenheiro de Requisitos / Programador
+Alisson A.Divino alisso19n:  Engenheiro de Requisitos / Programador
 
-João Herick : Arquiteto de Sistema / Analista de Requisitos
+João Herick Jottatest: Arquiteto de Sistema / Analista de Requisitos
 
 # Descrição:
 Este documento tem como objetivo apresentar a organização , práticas e métricas, objetivos e marcos para criação do projeto TDAH DETECTOR, aplicativo 
