@@ -4,7 +4,9 @@
 
 # Equipe do sistema TDAH Detector
 Pedro Jorge:    Gerente de projetos /Analista de sistema
+
 Alisson A.Divino:  Engenheiro de Requisitos / Programador
+
 João Herick : Arquiteto de Sistema / Analista de Requisitos
 
 # Descrição:
